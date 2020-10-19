@@ -1,6 +1,6 @@
 {
   "name": "Rewardcity",
-  "logoURI": "https://ftp.bmp.ovh/imgs/2020/10/2a77eef6dbd3727a.png",
+  "logoURI": "https://raw.githubusercontent.com/guyuhuai/FileCash/main/FIC.png",
   "keywords": [
       "defi",
       "DEFI",
@@ -14,7 +14,7 @@
       "name": "FileCash",
       "symbol": "FIC",
       "decimals": 18,
-      "logoURI": "https://ftp.bmp.ovh/imgs/2020/10/2a77eef6dbd3727a.png"
+      "logoURI": "https://raw.githubusercontent.com/guyuhuai/FileCash/main/FIC.png"
       }
     ],
     "version": {
